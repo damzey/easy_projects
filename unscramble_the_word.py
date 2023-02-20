@@ -7,12 +7,6 @@ word_lists_by_difficulty_index = {
     'difficult': ['legislate', 'technique', 'parallel']
 }
 
-def get_words():
-    words = additional_files.choice_of_words
-    return words
-
-get_words()
-
 options = ['easy', 'medium', 'difficult']
 
 while True: 
