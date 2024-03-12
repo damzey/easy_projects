@@ -22,4 +22,4 @@ Project 9: SImple Calculator ➗
 
 Project 10: Unscramble the Word 💭
 
-Project 11: Higher-Lower Game
+Project 11: Higher-Lower Game ⬆️⬇️
