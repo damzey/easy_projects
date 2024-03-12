@@ -19,3 +19,5 @@ Project 8: Number Guessing Game 🔢
 Project 9: SImple Calculator ➗
 
 Project 10: Unscramble the Word 💭
+
+Project 11: Higher-Lower Game

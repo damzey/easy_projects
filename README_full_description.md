@@ -77,3 +77,7 @@ Project 10: Word Unscrambler
 For this project, I created a Python script that recreates a word unscrambler game. I created a dictionary that stores aa list of different words based on the level of difficulty. The user then inputs the level of difficulty they want to play the game in and the computer randomly chooses a word based on this, whilst shuffling the letters. The computer then returns the shuffled letters, and the user needs to guess what word this is an anagram for. 
 
 Python libraries used: N/A
+
+Project 11: Higher Lower Game
+
+For this project, I've developed a Python script that reenacts the higher lower card game, albiet without the pyshical cards. The prpogram starts by the computer selecting a rnadoim number ranging from  0 to 11. From there, the user must guess whether each subsuquent number will ascend or descend. A wrong guess marks the end of the round, prompting the user to decide whether to continue. Should the user choose to continue, with each successive round, the script keeps tabs on the players score, updating it whenever a new high score is achieved. Should players opt to conclude their gaming session, the script graciously bids farewell, revealing the highest score attained.
